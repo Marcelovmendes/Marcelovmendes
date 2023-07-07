@@ -1,22 +1,22 @@
-# Bem-vindo(a) ao meu perfil!
+#Oi sou o Marcelo! Bem-vindo(a) ao meu perfil!
 
-Meu nome é Marcelo e sou um(a) engenheiro(a) de software apaixonado(a) por desenvolvimento de soluções criativas e eficientes.
+<h3>Sou um(a) engenheiro(a) de software apaixonado(a) por desenvolvimento de soluções criativas e eficientes.</h3>
 
 
 <div style= "display:inline-block"><br>
- <img align="center" right="30" width="40"
+ <img align="center" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img align="center" right="30" width="40" 
+ <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- <img align="center" right="30" width="40"
+ <img align="center" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img align="center" right="30" width="40"
+ <img align="center" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" right="30" width="40"
+ <img align="center" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <img align="center" right="30" width="40"
+ <img align="center" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" right="30" width="40"
+ <img align="center"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
                              
  </div>
