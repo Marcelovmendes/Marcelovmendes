@@ -1,6 +1,7 @@
-<h1> Oi,sou o Marcelo! Bem-vindo(a) ao meu perfil!</h1>
+<h1> Oi, sou o Marcelo! Bem-vindo(a) ao meu perfil!</h1>
 
-<h3>Sou um(a) engenheiro(a) de software apaixonado(a) por desenvolvimento de soluções criativas e eficientes.</h3>
+
+<h4>Sou um(a) engenheiro(a) de software apaixonado(a) por desenvolvimento de soluções criativas e eficientes.</h3>
 
 
 <div style= "display:inline-block"><br>
