@@ -5,6 +5,8 @@
 <div style= "display:inline-block"><br>
  <img align="center" Width ="40" right= "30"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" Width ="40" right= "30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
  <img align="center" Width ="40" right= "30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img align="center" Width ="40" right= "30"
