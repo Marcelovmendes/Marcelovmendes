@@ -12,7 +12,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-pl
  <img align="center" Width ="40" right= "30"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" Width ="40" right= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="center" Width ="40" right= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />         
+<img align="center" Width ="40" right= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />         
  <img align="center" Width ="40" right= "30"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" Width ="40" right= "30"
